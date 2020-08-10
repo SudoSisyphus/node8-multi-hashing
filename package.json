@@ -38,5 +38,6 @@
         "sha1",
         "turtlecoin",
         "cryptonight"
-    ]
+    ],
+    "types": "./types.d.ts"
 }
